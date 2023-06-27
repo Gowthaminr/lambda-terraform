@@ -12,5 +12,5 @@ provider "aws" {
 	# access_key               = "AKIA5EILTROZ3WC7XSGS"
         # secret_key               = "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"
 	access_key                 = "AKIA5BMGLEQ56KTRH7NK"
-        secret_key               = "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"
+        secret_key                 = "yDJ6UAQjz3oumPQ+kwcfMKIX5w2U2MGP5TnHIkI/"
 }
